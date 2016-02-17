@@ -1,0 +1,17 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "Starter project",
+  "main": "gulpfile.js",
+  "author": "Renato Contaifer",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-cssnano": "^2.1.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^2.2.0",
+    "node-bourbon": "^4.2.3"
+  }
+}
