@@ -12,6 +12,7 @@
     "gulp-cssnano": "^2.1.1",
     "gulp-plumber": "^1.1.0",
     "gulp-sass": "^2.2.0",
-    "node-bourbon": "^4.2.3"
+    "node-bourbon": "^4.2.3",
+    "susy": "^2.2.12"
   }
 }
